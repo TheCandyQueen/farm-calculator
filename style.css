@@ -1,0 +1,13 @@
+.ibox{
+    width:250px;
+    height:20px;
+    font-size:20px;
+  }
+  button{
+    font-family:Comic Sans MS;
+    background-color:pink; 
+    cursor: pointer;
+  }
+  body{
+    background-color:orange;
+  }
